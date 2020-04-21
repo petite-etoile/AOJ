@@ -1,0 +1,25 @@
+\documentclass{jarticle}
+\begin{document}
+
+\LARGE
+プログラミング演習1
+
+\vskip\baselineskip
+
+\today \qquad  結果:
+
+\vskip\baselineskip
+
+\large
+出席番号: NO
+
+氏名: NAME
+
+
+\vskip\baselineskip
+
+\Large
+
+\begin{tabular}{||r|c|r||} \hline
+\hbox to 2.5cm{\hfil 順位 \hfil} & \hbox to 2cm { \hfil 単語 \hfil}
+ & \hbox to 2cm{\hfil 出現回数 \hfil} \\ \hline

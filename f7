@@ -1,0 +1,6 @@
+keio    meiji   keio    hosei
+hosei   keio    nihon
+tokyo   waseda  meiji   hosei   meiji
+nihon   keio    tokyo
+waseda  tokyo   waseda  nihon   hosei   waseda
+nihon   tokyo   meiji
